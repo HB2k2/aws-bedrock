@@ -5,3 +5,5 @@ langchain
 streamlit
 faiss-cpu
 langchain_community
+langchain-core 
+langchain-aws
