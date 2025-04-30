@@ -1,0 +1,8 @@
+ {
+    {
+        "modelId": "amazon.titan-embed-text-v1",
+        "contentType": "application/json",
+        "accept": "*/*",
+        "body": "{\"inputText\":\"this is where you place your input text\"}"
+    }
+}
